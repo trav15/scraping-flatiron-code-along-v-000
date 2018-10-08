@@ -17,7 +17,9 @@ class Scraper
     # end
   end
   
-  
+  def get_courses
+    
+  end
   
   
   def print_courses
